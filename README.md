@@ -1,7 +1,7 @@
 - I am a student at ACS
-- My favorite sports are basketball and soccer
+- My favorite sports are basketball and soccer:basketball::soccer:
 - My favorite color is green
-- I have traveled to 22 countries
+- I have traveled to 22 countries:earth_africa:
 
 
 <!---
